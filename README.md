@@ -11,7 +11,7 @@
 ## فهرست فصل‌ها 
 
 * [پیش گفتار](0-pre/README.md)
-* [فصل اول: کد باید به آسانی قابل درک باشد](1-Code-Should-Be-Easy-to-Understand/clean-code.md)
+* [فصل اول: کد باید به آسانی قابل درک باشد](1-Code-Should-Be-Easy-to-Understand/README.md)
 
 
 
