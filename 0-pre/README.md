@@ -5,7 +5,8 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/tree/main/0-pre/img-0-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/0-pre/img-0-1.png" />
+              
 </p>
 
 <div dir='rtl'>
@@ -41,13 +42,13 @@
 
 <div>
 [1]: inspiring
-
+<br>
 [2]: Surface-level
-
+<br>
 [3]: aesthetics
-
+<br>
 [4]: codebase
-
+<br>
 [5]: attack
 
 </div>
