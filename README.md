@@ -12,6 +12,7 @@
 
 * [پیش گفتار](0-pre/README.md)
 * [فصل اول: کد باید به آسانی قابل درک باشد](1-Code-Should-Be-Easy-to-Understand/README.md)
+* [فصل دوم: قرار دادن اطلاعات در نام‌ها](2-Packing-Information-into-Names/README.md)
 
 
 
