@@ -14,6 +14,7 @@
 * [فصل اول: کد باید به آسانی قابل درک باشد](1-Code-Should-Be-Easy-to-Understand/README.md)
 * [فصل دوم: قرار دادن اطلاعات در نام‌ها](2-Packing-Information-into-Names/README.md)
 * [فصل سوم: نام هایی که نمی‌توانند متناقض باشند](3-Names-That-Can-not-Be-Misconstrued)
+* [فصل چهارم: زیبا سازی](4-Aesthetics)
 
 
 ### نکته:
