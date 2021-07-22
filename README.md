@@ -16,7 +16,7 @@
 * [فصل سوم: نام هایی که نمی‌توانند متناقض باشند](3-Names-That-Can-not-Be-Misconstrued)
 * [فصل چهارم: زیبا سازی](4-Aesthetics)
 * [فصل پنجم: چه چیزی را کامنت کنیم](5-Knowing-What-to-Comment)
-
+* [فصل ششم: ساختن کامنت‌ها به شکل دقیق و خلاصه](6-Making-Comments-Precise-and-Compact)
 
 ### نکته:
 
