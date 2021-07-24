@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy to-Read/img-7-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy-to-Read/img-7-1.png" />
 </p>
 
 <div dir='rtl'>
@@ -116,7 +116,7 @@ if (NULL == obj) ...
 ## ترتیب بلوک‌های if/else
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy to-Read/img-7-2.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy-to-Read/img-7-2.png" />
 </p>
 
 هنگام نوشتن یک دستور if/else، به طور معمول باید آزادی عمل در مورد جابجا کردن ترتیب بلوک‌های دستور را داشته باشید. به عنوان نمونه شما می‌توانید به هر دو شکل زیر شرط خود را بنویسید:
@@ -278,7 +278,7 @@ if (exponent >= 0) {
 ## از حلقه‌های do/while اجتناب کنید
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy to-Read/img-7-3.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy-to-Read/img-7-3.png" />
 </p>
 
 زبان Perl و بسیاری از زبان‌های برنامه‌نویسی قابل احترام، دستور زیر را در خود دارند:
@@ -566,7 +566,7 @@ for (int i = 0; i < results.size(); i++) {
 ## آیا می‌توانید جریان اجرایی برنامه را دنبال کنید؟
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy to-Read/img-7-4.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/7-Making-Control-Flow-Easy-to-Read/img-7-4.png" />
 </p>
 
 این فصل درباره کنترل جریان سطح-پایین1 بود یعنی نحوه ساختن حلقه‌ها، شرط‌ها و دیگر پرش‌ها به گونه‌ای که خواندن آن‌ها، ساده باشد. اما این کافی نبوده و شما باید در مورد جریان برنامه خود در سطح بالا نیز فکر کنید. در حالت ایده‌آل باید بتوانید به راحتی کل مسیر اجرای برنامه خود را دنبال کنید یعنی از main() شروع کرده و سپس از نظر ذهنی کد را دنبال نمایید و نیز به عنوان یک تابع، دیگر توابع را صدا بزنید تا اینکه در نهایت از برنامه خارج شوید.
