@@ -17,6 +17,7 @@
 * [فصل چهارم: زیبا سازی](4-Aesthetics)
 * [فصل پنجم: چه چیزی را کامنت کنیم](5-Knowing-What-to-Comment)
 * [فصل ششم: ساختن کامنت‌ها به شکل دقیق و خلاصه](6-Making-Comments-Precise-and-Compact)
+* [فصل هفتم: ساده کردن خوانایی کنترل جریان](7-Making-Control-Flow-Easy to-Read)
 
 ### نکته:
 
