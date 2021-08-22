@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/01-Code-Should-Be-Easy-to-Understand/img-1-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/01-Code-Should-Be-Easy-To-Understand/img-1-1.png" />
 </p>
 
 
