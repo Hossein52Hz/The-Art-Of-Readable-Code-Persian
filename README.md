@@ -11,13 +11,13 @@
 ## فهرست فصل‌ها 
 
 * [پیش گفتار](0-pre/README.md)
-* [فصل اول: کد باید به آسانی قابل درک باشد](1-Code-Should-Be-Easy-to-Understand/README.md)
-* [فصل دوم: قرار دادن اطلاعات در نام‌ها](2-Packing-Information-into-Names/README.md)
-* [فصل سوم: نام هایی که نمی‌توانند متناقض باشند](3-Names-That-Can-not-Be-Misconstrued)
-* [فصل چهارم: زیبا سازی](4-Aesthetics)
-* [فصل پنجم: چه چیزی را کامنت کنیم](5-Knowing-What-to-Comment)
-* [فصل ششم: ساختن کامنت‌ها به شکل دقیق و خلاصه](6-Making-Comments-Precise-and-Compact)
-* [فصل هفتم: ساده کردن خوانایی کنترل جریان](7-Making-Control-Flow-Easy-to-Read)
+* [فصل اول: کد باید به آسانی قابل درک باشد](01-Code-Should-Be-Easy-to-Understand/README.md)
+* [فصل دوم: قرار دادن اطلاعات در نام‌ها](02-Packing-Information-into-Names/README.md)
+* [فصل سوم: نام هایی که نمی‌توانند متناقض باشند](03-Names-That-Can-not-Be-Misconstrued)
+* [فصل چهارم: زیبا سازی](04-Aesthetics)
+* [فصل پنجم: چه چیزی را کامنت کنیم](05-Knowing-What-to-Comment)
+* [فصل ششم: ساختن کامنت‌ها به شکل دقیق و خلاصه](06-Making-Comments-Precise-and-Compact)
+* [فصل هفتم: ساده کردن خوانایی کنترل جریان](07-Making-Control-Flow-Easy-to-Read)
 
 
 
