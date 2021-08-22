@@ -19,8 +19,8 @@
 * [فصل ششم: ساختن کامنت‌ها به شکل دقیق و خلاصه](06-Making-Comments-Precise-and-Compact/README.md)
 * [فصل هفتم: ساده کردن خوانایی کنترل جریان](07-Making-Control-Flow-Easy-to-Read/README.md)
 * [فصل هشتم: شکستن عبارت‌های غول پیکر به قسمت‌های کوچک](08-Breaking-Down-Giant-Expressions/README.md)
-
-
+* [متغیرها و خوانایی](09-Variables-and-Readability/README.md)
+ 
 * [فصل یازدهم: در هر لحظه یک وظیفه](11-One-Task-at-a-Time/README.md)
 * [فصل دوازدهم: تبدیل افکار به کد](12-Turning-Thoughts-into-Code/README.md)
 * [فصل سیزدهم: نوشتن کد کمتر](13-Writing-Less-Code/README.md)
