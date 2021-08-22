@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/5-Knowing-What-to-Comment/img-5-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/05-Knowing-What-to-Comment/img-5-1.png" />
 </p>
 
 <div dir='rtl'>
@@ -27,7 +27,7 @@
 ## چه چیزی را نباید کامنت کنیم
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/5-Knowing-What-to-Comment/img-5-2.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/05-Knowing-What-to-Comment/img-5-2.png" />
 </p>
 
 از آنجا که خواندن یک کامنت زمان زیادتری از خواندن کد برده و فضایی را در بالای صفحه اشغال می‌کند، بهتر است چیزی که مد نظر دارید ارزش کامنت نوشتن را داشته باشد. حال این سوال مطرح می شود که چگونه می‌توان مرز بین یک کامنت بی ارزش و یک کامنت خوب را فهمید؟
@@ -297,7 +297,7 @@ image_quality = 0.72;  // users thought 0.72 gave the best size/quali
 ## پیش بینی سوالات احتمالی
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/5-Knowing-What-to-Comment/img-5-3.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/05-Knowing-What-to-Comment/img-5-3.png" />
 </p>
 
 هنگامی که شخص دیگری کد شما را بخواند، بخش‌هایی وجود دارد که ممکن است در مورد بخش‌هایی از آن به این صورت فکر کند که **«هااااااا؟ اینا اصلا در مورد چی هستند؟»** کار شما این هست که این بخش‌ها را کامنت گذاری کنید. به عنوان مثال نگاهی به تعریف تابع Clear() بیندازید:
@@ -335,7 +335,7 @@ vector<float>().swap(data);
 ## اعلام کردن تله1 احتمالی
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/5-Knowing-What-to-Comment/img-5-4.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/05-Knowing-What-to-Comment/img-5-4.png" />
 </p>
 
 هنگام مستند کردن یک تابع یا یک کلاس، سوال خوبی که می‌توانید از خود بپرسید این است که، چه چیز تعجب آوری در مورد این کد وجود دارد؟ چگونه ممکن است این کد سبب برداشت اشتباه خواننده شود؟ در واقع، شما دارید «به آینده فکر می‌کنید» تا مشکلاتی که احتمالا افراد در زمان استفاده از کد، به آن دچار می‌شوند را پیش بینی کنید.
@@ -395,7 +395,7 @@ def FixBrokenHtml(html): ...
 ## کامنت‌های روند کلی1
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/5-Knowing-What-to-Comment/img-5-5.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/05-Knowing-What-to-Comment/img-5-5.png" />
 </p>
 
 یکی از سخت‌ترین موارد برای عضو جدید تیم، فهمیدن روند کلی برنامه است. اینکه تعامل کلاس‌ها چگونه است، جریان داده در کل سیستم به چه صورت بوده و نقاط ورودی1 کجاها هستند.

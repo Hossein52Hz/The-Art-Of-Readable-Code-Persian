@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/4-Aesthetics/img-4-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/04-Aesthetics/img-4-1.png" />
 </p>
 
 <div dir='rtl'>
@@ -27,7 +27,7 @@
 ## چرا زیباسازی مهم است؟
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/4-Aesthetics/img-4-2.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/04-Aesthetics/img-4-2.png" />
 </p>
 
 تصور کنید که مجبور باشید از کلاس زیر استفاده کنید:
@@ -509,7 +509,7 @@ class Logger
 > **_کلید طلایی:_**  استایل‌های همیشگی از استایل «مناسب1» بهتر هستند.
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/4-Aesthetics/img-4-3.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/04-Aesthetics/img-4-3.png" />
 </p>
 
 ## خلاصه فصل

@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/3-Names-That-Can-not-Be-Misconstrued/img-3-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/03-Names-That-Can-not-Be-Misconstrued/img-3-1.png" />
 </p>
 
 <div dir='rtl'>
@@ -118,7 +118,7 @@ if shopping_cart.num_items() > MAX_ITEMS_IN_CART:
 ## ارجحیت first و last برای محدوده‌های[11] جامع[12]
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/3-Names-That-Can-not-Be-Misconstrued/img-3-2.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/03-Names-That-Can-not-Be-Misconstrued/img-3-2.png" />
 </p>
 
 
@@ -151,7 +151,7 @@ set.PrintKeys(first="Bart", last="Maggie")
 ## ارجحیت begin و end برای محدوده‌های جامع/اختصاصی
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/3-Names-That-Can-not-Be-Misconstrued/img-3-3.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/03-Names-That-Can-not-Be-Misconstrued/img-3-3.png" />
 </p>
 
 معمولا استفاده از محدوده‌های جامع/اختصاصی در عمل راحت‌تر است. به عنوان مثال، اگر شما بخواهید تمام وقایع اتفاق افتاده در ۱۶ اکتُبر را چاپ کنید، این ساده‌تر است:
