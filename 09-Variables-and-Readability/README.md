@@ -1,8 +1,6 @@
 <div dir="rtl">
 
-# فصل نهم
-
-# متغیرها و خوانایی
+# فصل نهم متغیرها و خوانایی
 
 <p align="center">
 ‍   <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/09-Variables-and-Readability/img-9-1.png"/>
