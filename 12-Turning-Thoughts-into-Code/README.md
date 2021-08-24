@@ -9,6 +9,8 @@
     <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/12-Turning-Thoughts-into-Code/img-12-1.png" />
 </p>
 
+<div dir='rtl'>
+
 <p align="center">
 
 **زمانی شما واقعا چیزی را فهمیده‌اید که بتوانید آن را به مادربزرگ خود توضیح دهید.**
