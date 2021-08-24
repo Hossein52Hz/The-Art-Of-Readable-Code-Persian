@@ -1,13 +1,11 @@
 <div dir="rtl">
 
-# فصل هشتم
-
-# شکستن عبارت‌های غول پیکر به قسمت‌های کوچک
+# فصل هشتم شکستن عبارت‌های غول پیکر به قسمت‌های کوچک
 
 </div>
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/8-Breaking-Down-Giant-Expressions/img-8-1.png"/>
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/08-Breaking-Down-Giant-Expressions/img-8-1.png"/>
 </p>
 
 <div dir="rtl">
@@ -253,7 +251,7 @@ struct Range {
 تصویر زیر چند نمونه از محدوده‌ها [11] را نشان می‌دهد:
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/8-Breaking-Down-Giant-Expressions/img-8-2.png"/>
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/08-Breaking-Down-Giant-Expressions/img-8-2.png"/>
 </p>
 
 توجه کنید که `end` یک کلمه
@@ -285,7 +283,7 @@ bool Range::OverlapsWith(Range other) {
 نشان داده شده است.
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/8-Breaking-Down-Giant-Expressions/img-8-1.png"/>
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/08-Breaking-Down-Giant-Expressions/img-8-1.png"/>
 </p>
 
 موارد و شرایط بسیاری وجود دارد که باید درباره آن فکر

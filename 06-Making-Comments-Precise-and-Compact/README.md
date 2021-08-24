@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/6-Making-Comments-Precise-and-Compact/img-6-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/06-Making-Comments-Precise-and-Compact/img-6-1.png" />
 </p>
 
 <div dir='rtl'>

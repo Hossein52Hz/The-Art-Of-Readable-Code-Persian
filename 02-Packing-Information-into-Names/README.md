@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/2-Packing-Information-into-Names/img-2-1.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/02-Packing-Information-into-Names/img-2-1.png" />
 </p>
 
 
@@ -75,7 +75,7 @@ class Thread {
 ## پیدا کردن کلمات مشابه
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/2-Packing-Information-into-Names/img-2-2.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/02-Packing-Information-into-Names/img-2-2.png" />
 </p>
 
 از اینکه از یک فرهنگ لغت استفاده کنید یا از دوست خود درخواست کنید که نام بهتری را پیشنهاد دهد، نترسید. زبان انگلیسی یک زبان غنی است و کلمات بسیار زیادی برای انتخاب شما وجود دارند.
@@ -249,7 +249,7 @@ if (clubs[ci].members[mi] == users[ui])  # OK. First letters match.
 ## نام‌های واقعی را نسبت به نام‌های انتزاعی ترجیح دهید
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/2-Packing-Information-into-Names/img-2-3.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/02-Packing-Information-into-Names/img-2-3.png" />
 </p>
 
 هنگام نام‌گذاری یک متغیر، تابع یا دیگر عناصر بجای نام‌های انتزاعی آنها را به شکل به هم پیوسته و واقعی1 توصیف کنید. به عنوان مثال در نظر بگیرید که یک متد داخلی را serverCanStart() نامیده‌اید(که تست می‌کند ایا سرور می‌تواند روی یک پورت TCP/IP گوش کند یا نه). نام ServerCanStart() تا حدودی انتزاعی است، یک نام دقیق‌تر می‌تواند CanListenOnPort() باشد. این نام مستقیما توصیف می‌کند که متد چه کاری انجام خواهد داد. در دو مثال بعدی این موضوع را به شکل دقیق‌تری بررسی خواهیم کرد.
@@ -317,7 +317,7 @@ class ClassName {
 ## ضمیمه کردن اطلاعات اضافه به یک نام
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/2-Packing-Information-into-Names/img-2-4.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/02-Packing-Information-into-Names/img-2-4.png" />
 </p>
 
 همان‌گونه که قبلا اشاره کردیم، نام یک متغیر شبیه یک کامنت کوچک است. حتی اگر فضای زیادی وجود نداشته باشد، هر اطلاعات اضافی که در یک نام می‌گنجانید، هر بار که یک متغیر دیده می‌شود، این اطلاعات نیز دیده خواهد شد.
@@ -409,7 +409,7 @@ document.writeln("Load time was: " + elapsed_ms / 1000 + " seconds");
 در واقع این استاندارد که نمونه‌ای از ضمیمه کردن خصوصیات به نام‌ها است، سیستمی رسمی و سخت گیرانه است که روی نام گذاری مجموعه، با توجه به خصوصیات خاص آن متمرکز شده است. اما آنچه در این بخش مد نظر ما می‌باشد سیستمی گسترده‌تر و غیر رسمی است: یعنی مشخصه‌های مهم یک متغیر را شناسایی کرده و در صورت لزوم آن‌ها را به طور خوانا نام‌گذاری کنید. مثلا به عنوان یک پیشنهاد می‌توانید آن‌ها را یادداشت‌های انگلیسی1 بنامید.
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/2-Packing-Information-into-Names/img-2-5.png" />
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/02-Packing-Information-into-Names/img-2-5.png" />
 </p>
 
 ## طول یک نام چقدر باید باشد؟

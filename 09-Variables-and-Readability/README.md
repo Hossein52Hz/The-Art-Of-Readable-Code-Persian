@@ -1,11 +1,9 @@
 <div dir="rtl">
 
-# فصل نهم
-
-# متغیرها و خوانایی
+# فصل نهم متغیرها و خوانایی
 
 <p align="center">
-‍   <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/9-Variables-and-Readability/img-9-1.png"/>
+‍   <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/09-Variables-and-Readability/img-9-1.png"/>
 </p>
 
 در این فصل خواهید دید که چگونه استفاده شلخته[1]
@@ -76,7 +74,7 @@ root_message.last_view_time = datetime.datetime.now()
 ## از بین بردن نتایج واسط[7]
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/9-Variables-and-Readability/img-9-1.png"/>
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/09-Variables-and-Readability/img-9-1.png"/>
 </p>
 
 در اینجا مثالی از کد یک تابع JavaScript داریم که مقداری را از یک آرایه حذف می‌کند:
@@ -563,7 +561,7 @@ for reply in Messages.objects.select(root_id=original_id):
 ## ترجیح دادن متغیرهای Write-Once [23]
 
 <p align="center">
-    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/9-Variables-and-Readability/img-9-1.png"/>
+    <img src="https://github.com/Hossein52Hz/The-Art-Of-Readable-Code-Persian/blob/main/09-Variables-and-Readability/img-9-1.png"/>
 </p>
 
 تا اینجای این فصل، سخن درباره چگونگی سخت بودن درک برنامه‌هایی بود که تعداد زیادی متغیر دارند. بی شک فکر کردن در مورد متغیرهایی که دائما در حال تغییر هستند سخت‌تر بوده و پیگیری مقدار آن‌ها دشواری دیگری را اضافه می‌کند. برای مقابله با این مشکل، ما پیشنهادی داریم که ممکن است کمی عجیب به نظر آید: متغیرهایی را که به صورت `Write-Once` نوشته می‌شوند، ترجیح دهید چرا که راحت‌تر می‌توان در مورد اینگونه متغیرهای که یک چیز ثابت هستند فکر کرد. همچون ثابت‌ها:
